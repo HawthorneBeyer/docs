@@ -444,7 +444,7 @@ Install
 
 ::
 
-   export PYTHONPATH=$PYTHONPATH:/home/odm/ODM/SuperBuild/install/lib/python2.7/dist-packages
+   export PYTHONPATH=$PYTHONPATH:/home/odm/ODM/SuperBuild/install/lib/python3.8/dist-packages
    export PYTHONPATH=$PYTHONPATH:/home/odm/ODM/SuperBuild/src/opensfm
    export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/odm/ODM/SuperBuild/install/lib
 
